@@ -1,0 +1,5 @@
+{
+  "name": "Auto crawl and translate",
+  "description": "Trình Dịch & Biên Tập, Fix Kí Tự Raw Lỗi Chuyên Nghiệp. Sử dụng Gemini 3.0.",
+  "requestFramePermissions": []
+}
